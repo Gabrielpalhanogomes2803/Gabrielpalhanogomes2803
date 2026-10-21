@@ -112,7 +112,11 @@ Technical notes and experiments from continuous study in infrastructure, automat
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielpalhanogomes2803&bg_color=0d1117&color=94a3b8&line=06b6d4&point=22d3ee&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielpalhanogomes2803/Gabrielpalhanogomes2803/output/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielpalhanogomes2803/Gabrielpalhanogomes2803/output/contributions-light.svg" />
+  <img src="https://raw.githubusercontent.com/Gabrielpalhanogomes2803/Gabrielpalhanogomes2803/output/contributions-light.svg" alt="Animated GitHub contribution graph" width="100%" />
+</picture>
 
 </div>
 

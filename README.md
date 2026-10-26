@@ -89,11 +89,11 @@ A segmented three-tier architecture with EC2, Nginx, a private backend and Postg
 </td>
 <td width="50%" valign="top">
 
-**[DevOps & SRE Study Notes](https://github.com/Gabrielpalhanogomes2803/devops-sre-study-notes)**
+**[Infrastructure Runbooks](https://github.com/Gabrielpalhanogomes2803/infra-runbooks)**
 
-Technical notes and experiments from continuous study in infrastructure, automation, cloud architecture and observability.
+Practical Linux operating procedures with prerequisites, diagnostics, recovery guidance and a roadmap for Bash, PowerShell and observability automation. Lab validation is tracked separately.
 
-`DevOps` `SRE` `Cloud` `Observability`
+`Linux` `Runbooks` `Bash` `PowerShell`
 
 </td>
 </tr>

@@ -14,9 +14,23 @@
 
 ### `> whoami`
 
-I'm an infrastructure and automation professional based in **Florianópolis, Brazil**. I work with cloud infrastructure, Linux and Windows environments, networking, virtualization and observability — with an emphasis on building systems that are **reliable, secure and repeatable**.
+I'm an **Infrastructure & Automation professional with 4+ years of IT experience**, based in **Florianópolis, Brazil**. My background includes Linux and Windows Server administration, networking, virtualization, backups and operational troubleshooting.
 
-Currently pursuing a postgraduate degree in **DevOps & Cloud Architecture at FIAP**. My hands-on work focuses on AWS, Kubernetes, Terraform, GitOps, CI/CD and incident-oriented observability.
+I'm building on that experience through hands-on **AWS, CI/CD, GitOps and observability projects**, while pursuing a postgraduate specialization in **DevOps & Cloud Architecture at FIAP**.
+
+**Open to Infrastructure, Cloud and DevOps opportunities.** I bring operational experience, a systematic approach to troubleshooting and a focus on documenting systems so others can operate them.
+
+### `> experience --highlights`
+
+| Area | Hands-on experience |
+|---|---|
+| Systems & identity | Linux, Windows Server, Active Directory, DNS and access administration |
+| Virtualization & recovery | VMware, Hyper-V, migration work, Veeam backups and DFSR troubleshooting |
+| Networks & operations | VPNs, firewalls, connectivity troubleshooting and service availability |
+| Automation & delivery | Operational scripts, TeamCity, service integrations and technical handover documentation |
+| Cloud & reliability projects | AWS, Terraform, Kubernetes, GitHub Actions, Argo CD, metrics and logs |
+
+My professional background is strongest in infrastructure operations. The repositories below show how I'm extending that foundation into cloud delivery and reliability engineering.
 
 ```text
 $ focus --current
@@ -37,7 +51,7 @@ metrics, logs, traces |  reliability engineering
 
 <img src="https://skillicons.dev/icons?i=terraform,githubactions,git,github,bash&theme=dark" alt="Terraform, GitHub Actions, Git, GitHub and Bash" />
 
-**Languages & systems**
+**Project languages & systems**
 
 <img src="https://skillicons.dev/icons?i=python,go,postgres,nginx&theme=dark" alt="Python, Go, PostgreSQL and Nginx" />
 
@@ -62,7 +76,13 @@ metrics, logs, traces |  reliability engineering
 
 **[ToggleMaster | Feature Flags Platform](https://github.com/Gabrielpalhanogomes2803/tech-challenge-feature-flags)**
 
-Five microservices deployed through a cloud-native delivery pipeline using AWS EKS, Terraform, GitHub Actions, Amazon ECR and Argo CD. Phase 4 observability integration in progress.
+**Team project · FIAP Tech Challenge, phases 3–4.** Five microservices with Terraform, EKS, GitHub Actions, ECR and Argo CD.
+
+**My focus:** CI/DevSecOps, image delivery, GitOps and operational documentation, with observability work across the project.
+
+The documented inspection on **23 Oct 2026** recorded **11 Argo CD applications Synced/Healthy** and **5/5 HTTP health probes passing**. These are point-in-time lab results.
+
+[Architecture & evidence](https://github.com/Gabrielpalhanogomes2803/tech-challenge-feature-flags#evidências-e-documentação)
 
 `AWS` `EKS` `Terraform` `GitOps`
 
@@ -71,7 +91,11 @@ Five microservices deployed through a cloud-native delivery pipeline using AWS E
 
 **[AI SRE Monitor](https://github.com/Gabrielpalhanogomes2803/ai-sre-monitor)**
 
-An incident-triage lab connecting Prometheus, Grafana, Loki and an AI-assisted diagnostics service to help investigate operational failures.
+**Personal observability and incident-triage lab.** Prometheus, Grafana, Loki and Alloy provide evidence to a Python/FastAPI diagnostics service.
+
+Documented tests include HTTP 5xx, a Loki outage and an exporter outage. The AI layer assists investigation; operational changes remain under human control.
+
+[Project & screenshots](https://github.com/Gabrielpalhanogomes2803/ai-sre-monitor#screenshots)
 
 `Prometheus` `Loki` `Grafana` `Python`
 
@@ -82,7 +106,11 @@ An incident-triage lab connecting Prometheus, Grafana, Loki and an AI-assisted d
 
 **[AWS Three-Tier Lab](https://github.com/Gabrielpalhanogomes2803/aws-devops-three-tier-lab)**
 
-A segmented three-tier architecture with EC2, Nginx, a private backend and PostgreSQL, built as a hands-on AWS networking and infrastructure exercise.
+**Manual AWS infrastructure lab.** Public Nginx frontend, private Python backend and private PostgreSQL database, with security-group-based segmentation.
+
+Validated a request through Nginx and the API to database-backed task records. Terraform, CI/CD and production hardening are next steps.
+
+[Setup & troubleshooting](https://github.com/Gabrielpalhanogomes2803/aws-devops-three-tier-lab#conteúdo-do-repositório)
 
 `AWS VPC` `EC2` `Nginx` `PostgreSQL`
 
@@ -91,13 +119,29 @@ A segmented three-tier architecture with EC2, Nginx, a private backend and Postg
 
 **[Infrastructure Runbooks](https://github.com/Gabrielpalhanogomes2803/infra-runbooks)**
 
-Practical Linux operating procedures with prerequisites, diagnostics, recovery guidance and a roadmap for Bash, PowerShell and observability automation. Lab validation is tracked separately.
+**15 published Linux runbooks** covering inspection, updates, SSH, networking, storage, backups, services and security.
+
+Includes recovery guidance, a validation template and a **99-item implementation checklist** for Linux, Windows and observability. Script implementation and lab validation are tracked separately from documentation.
+
+[Implementation checklist](https://github.com/Gabrielpalhanogomes2803/infra-runbooks/blob/main/ROADMAP.md)
 
 `Linux` `Runbooks` `Bash` `PowerShell`
 
 </td>
 </tr>
 </table>
+
+### `> learning --current`
+
+- **FIAP:** postgraduate specialization in DevOps & Cloud Architecture, in progress.
+- **Linux:** turn reviewed procedures into tested Bash tools and reproducible lab evidence.
+- **Windows Server:** build PowerShell diagnostics for systems, AD, DNS, DFSR and Hyper-V.
+- **Observability:** connect operational signals to actionable alerts, runbooks and incident reviews.
+
+Professional operations, team projects and personal labs are identified separately above.
+Repository evidence describes the environment and date recorded; it is not a claim of continuous production availability.
+
+**Start a conversation:** [portfolio and contact information](https://gabrielgomes.cloud).
 
 ### `> github --activity`
 
